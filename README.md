@@ -1,6 +1,6 @@
-# vue-test1
+# blog-portal
 
-> A Vue.js project
+> 这是博客系统的前端项目，使用Vue + element ui。
 
 ## Build Setup
 
@@ -16,6 +16,4 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
